@@ -1,0 +1,26 @@
+Play music
+https://www.icloud.com/shortcuts/f85c9ca1206c47b7b09f2cded9edbca6
+
+Create playlist
+https://www.icloud.com/shortcuts/ecfbd43a65184f868b5de0c98e9eab94
+
+Rename playlist
+https://www.icloud.com/shortcuts/bf91a7ac22584e678be4ed124c666f2e
+
+Add to playlist 2
+https://www.icloud.com/shortcuts/ee6f69fffa3b439581a65323ed9b4fb3
+
+Add to playlist 3
+https://www.icloud.com/shortcuts/269d9a8d30aa43c385ceaf41c0d371d5
+
+Play all 
+https://www.icloud.com/shortcuts/b95b6654957b43f7aa3d9afa91edee1b
+
+Remove
+https://www.icloud.com/shortcuts/007ff8b2380f4f899ef1d49978635f59
+
+Kablam
+https://www.icloud.com/shortcuts/7f567d5f60b246068816ed3e8337b258
+
+Fix
+https://www.icloud.com/shortcuts/00b2b91002ac4e6b9c2706d60c53bc61
